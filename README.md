@@ -43,7 +43,7 @@ Sprint sonunda, Takım ismine ve takım rollerine karar verildi, Geliştirilmesi
 
 
 # Ürün İş listesi URL’si;
-[Trello].(https://trello.com/b/OANZL5P2/oyun-uygulama-akademisi)
+Trello -(https://trello.com/b/OANZL5P2/oyun-uygulama-akademisi)
 
 
 
